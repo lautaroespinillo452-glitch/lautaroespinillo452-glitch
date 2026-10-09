@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy[ESPINILLO LAUTARO]
+👋 ¡Hola! Soy ESPINILLO LAUTARO]
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desarrollador+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Siempre+aprendiendo+%F0%9F%93%9A" alt="Typing SVG" />
